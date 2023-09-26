@@ -1,6 +1,6 @@
 <div align="center">
-  <h3>Hi there, I'm Valdarie 🐢</h3>
-  <p>📍 Based in Singapore</p>
+  <h1>Hi there, I'm Valdarie 🐢</h1>
+  <p>📍 Based in Singapore 🇸🇬</p>
 </div>
 
 <div align="center">
