@@ -1,13 +1,16 @@
-### Hi there, I'm Valdarie 👋
+<div align="center">
+  <h3>Hi there, I'm Valdarie 🐢</h3>
+  <p>📍 Based in Singapore</p>
+</div>
 
-📍 Based in Singapore
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=valdarie&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=valdarie&layout=compact&langs_count=8&card_width=100&theme=transparent" />
-</a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=valdarie&theme=transparent" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=valdarie&layout=compact&langs_count=8&card_width=100&theme=transparent" />
+  </a>
+</div>
 
 <!--
 **Valdarie/Valdarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
