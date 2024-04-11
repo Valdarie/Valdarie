@@ -34,7 +34,7 @@
 
 | Repository Name                      | Project Type    | Description                                                       | Languages & Tools                                                  |
 |--------------------------------------|-----------------|-------------------------------------------------------------------|--------------------------------------------------------------------|
-| [AAI3001](https://github.com/Valdarie/AAI3001)              | Image Prediction | Predict land use from EuroSAT dataset. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+| [AAI3001](https://github.com/Xuanting85/AAI3001_SmallProj)              | Image Prediction | Predict land use from EuroSAT dataset. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
 
 ### Edge Computing
 
