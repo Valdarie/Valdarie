@@ -41,20 +41,30 @@
 | Repository Name                                                 | Project Type        | Description                                       | Languages & Tools                                                  |
 |-----------------------------------------------------------------|---------------------|---------------------------------------------------|--------------------------------------------------------------------|
 | [INF2009-P1-T02](https://github.com/Xuanting85/INF2009-P1-T02) | Gesture Recognition | Biomechanical Gesture Recognition & Analysis (BGRA) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
-| [Gesture Recognition](https://github.com/Valdarie/gesture-recognition) | Gesture Recognition | Detecting hand gestures with Mediapipe.             | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| [-Team-43-INF2004-Project](https://github.com/CharistaSC/-Team-43-INF2004-Project) | Robotics with Edge Computing | Design robot with IR sensors to complete maze | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)|
+| [INF2009-Gesture Recognition](https://github.com/Valdarie/INF2009-Gesture-Recognition) | Gesture Recognition | Detecting hand gestures with Mediapipe.             | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| [INF2009-Colour-Seg](https://github.com/Valdarie/INF2009-Colour-Seg) | Image Segmentation | Colour Segmentation in live video feed             | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Mediapipe](https://img.shields.io/badge/-MediaPipe-34A853?style=flat-square&logo=mediapipe&logoColor=white) |
+| [INF2009-Object-Detection](https://github.com/Valdarie/INF2009-Object-Detection) | Object Detection | Object Detection in live video feed             | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![Mediapipe](https://img.shields.io/badge/-MediaPipe-34A853?style=flat-square&logo=mediapipe&logoColor=white) |
+
 
 ### Cloud Computing & Big Data
 
 | Repository Name                                             | Project Type         | Description                                         | Languages & Tools                 |
 |-------------------------------------------------------------|----------------------|-----------------------------------------------------|-----------------------------------|
-| [INF2006-P101-Big-Data](https://github.com/Valdarie/INF2006-P101-Big-Data) | Sentiment Analysis | Extracting and analyzing Twitter data. | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| [INF2006-P101-Big-Data](https://github.com/Valdarie/INF2006-P101-Big-Data) | MapReduce Sentiment Analysis | Extracting and analyzing Twitter data using Hadoop MapReduce. | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white) |
 
 ### Database & Software (HTML, CSS)
 
 | Repository Name                                             | Project Type | Description                                         | Languages & Tools                 |
 |-------------------------------------------------------------|--------------|-----------------------------------------------------|-----------------------------------|
 | [INF2003-T16](https://github.com/Valdarie/INF2003-T16)     | Database     | The Daily Grind Oasis: Coffee ordering pilot website | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [INF1005](https://github.com/Valdarie/INF1005)     | Web Systems & Technology     | Pork Island restaurant website | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white) ![Hack](https://img.shields.io/badge/-Hack-878787?style=flat-square&logo=hack&logoColor=white) |
 
+### Others
+| Repository Name                                             | Project Type | Description                                         | Languages & Tools                 | Report |
+|-------------------------------------------------------------|--------------|-----------------------------------------------------|-----------------------------------|---------|
+|||||
+|||||
 </details>
 
 <div align="center">
