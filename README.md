@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Valdarie 🐢</h1>
+  <img src="Banner.png" alt="Bannner" width="100%">
   <p>📍 Based in Singapore 🇸🇬</p>
 </div>
 
