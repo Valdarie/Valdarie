@@ -74,5 +74,5 @@
 </details>
 
 <div align="center">
-  <img src="svg/wave.svg" alt="Wave SVG" width="100%">
+  <img src="svg/updatedwave.svg" alt="Wave SVG" width="100%">
 </div>
